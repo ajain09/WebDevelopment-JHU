@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    font-size: 45px !important; 
+    position: relative;
+    top: 22.5%;
+    color: white;
+}
+
+
+#collapsable-nav{
+    text-align:center;
+    font-size:20px;
+}
+
+button{
+    float:right;    
+    background-color:black;
+    color:white;
+}
+
+
+#menu{
+    background-color: grey;
+    padding: 2.5%;
+}
+
+section{
+    text-align: center;    
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+button{
+    float: right;
+}
+
+p{
+    font-size:20px;
+}
+
+@media (max-width: 767px){
+    #collapsable-nav{
+        background-color:lightblue;
+    }
+}
