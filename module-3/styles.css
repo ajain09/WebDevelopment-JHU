@@ -2,20 +2,6 @@
     box-sizing: border-box;
 }
 
-/*#s1,#s2,#s3{
-    border: 1px black solid;
-    border-width: thick;
-    background-color:lightgrey;
-    text-align: left;
-    font-family: 'Times New Roman', Times, serif;
-    box-sizing: border-box;
-    position: relative;
-    padding-top: 7%;
-    margin: 0.5%;
-    float: left;
-    height:30%;
-}*/
-
 section{
     border: 1px black solid;
     padding-top: 0;
@@ -24,14 +10,6 @@ section{
     font-family: 'Times New Roman', Times, serif;
     box-sizing: border-box;
     position: relative;
-    /*margin: 0.5%;
-    float: left;
-    height:30%;
-    /*border-style: solid;
-    border-width: 1px;
-    border-color: black;
-    background-color: gainsboro;
-    margin: 20px;*/
 }
 
 section>h4{
